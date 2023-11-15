@@ -1,0 +1,9 @@
+1. Sebuah framework adalah seperti kerangka kerja atau kerangka dasar yang menyediakan aturan, alat, dan struktur untuk membantu dalam membangun sesuatu.
+
+2.1 Sistem informasi apotik mitra galuh (SIAGA)
+2.2 fauzan azhar : front-end 
+    fajri yanuar shiddiq juanda : back-end 
+    fadel raihan asshiddiqie : laporan/desain uml
+2.3 permasalhan : apotik yang kita lakukan reset sudah memiliki sistem tapi tidak memili fitur allert untuk obat yang akan expired, serta laporan keuangan pada sistem yang lama tidak dapat berjalan, sistem yang dimiliki juga berbasis aplikasi  jadi memiliki ketergantungan pada device yang digunakan.
+
+solusi : kita akan membuat sistem alert yang akan memberikan peringatan terhadapa obat yang akan kadaluarsa sebelum h-60 dari tgl expirde, membuat seistem laporan keuangan diantaranya laporan hutang apotek terhadap supplier yang sudah d bayar berkurang serta perhitungan laba rugi, kita membuat sistem berbasis webs app yang memiliki kelebihan jika suatu saat ada kendala pada komputer apotek, maka sistem informasi apotek masih bisa d buka melalui  hp atau tablet. 
